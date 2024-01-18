@@ -1,0 +1,268 @@
+{
+  "courses": [
+    {
+      "course_name": "Introduction to Programming",
+      "instructor": "John Doe",
+      "description": "This course introduces the basics of programming.",
+      "enrollment_status": "Open",
+      "duration": "10 weeks",
+      "schedule": "Mondays and Wednesdays, 10am - 12pm",
+      "location": "Online",
+      "prerequisites": "None",
+      "syllabus": [
+        "Week 1: Introduction to Programming",
+        "Week 2: Variables and Data Types",
+        "Week 3: Control Structures",
+        "Week 4: Functions and Modules",
+        "Week 5: Data Structures",
+        "Week 6: Object-Oriented Programming",
+        "Week 7: Advanced Topics",
+        "Week 8: Project Week",
+        "Week 9: Project Presentations",
+        "Week 10: Course Review"
+      ],
+      "thumbnail": "https://johnthecomputerman.co.uk/storage/2021/05/introtoprogramming-190909184629-thumbnail-4.jpg"
+    },
+    {
+      "course_name": "Advanced Mathematics",
+      "instructor": "Jane Smith",
+      "description": "This course covers advanced topics in mathematics.",
+      "enrollment_status": "Closed",
+      "duration": "12 weeks",
+      "schedule": "Tuesdays and Thursdays, 1pm - 3pm",
+      "location": "Online",
+      "prerequisites": "Introduction to Mathematics",
+      "syllabus": [
+        "Week 1: Review of Basic Mathematics",
+        "Week 2: Linear Algebra",
+        "Week 3: Calculus",
+        "Week 4: Differential Equations",
+        "Week 5: Probability and Statistics",
+        "Week 6: Discrete Mathematics",
+        "Week 7: Number Theory",
+        "Week 8: Geometry",
+        "Week 9: Advanced Topics",
+        "Week 10: Project Week",
+        "Week 11: Project Presentations",
+        "Week 12: Course Review"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjt3bEOzYqXq9j3JOh13af3_T3C0YZRDbgQ&usqp=CAU"
+    },
+    {
+      "course_name": "Web Development Fundamentals",
+      "instructor": "Sarah Johnson",
+      "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+      "enrollment_status": "Open",
+      "duration": "8 weeks",
+      "schedule": "Mondays and Wednesdays, 3pm - 5pm",
+      "location": "Online",
+      "prerequisites": "Introduction to Programming",
+      "syllabus": [
+        "Week 1: Introduction to Web Development",
+        "Week 2: HTML Basics",
+        "Week 3: CSS Styling",
+        "Week 4: JavaScript Fundamentals",
+        "Week 5: DOM Manipulation",
+        "Week 6: Responsive Design",
+        "Week 7: Web Development Tools",
+        "Week 8: Project Week"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe84SVye0MnAA7mflQpsRNuaLffsoqO2YeJA&usqp=CAU"
+    },
+    {
+      "course_name": "Digital Marketing Strategies",
+      "instructor": "Mark Anderson",
+      "description": "Explore effective digital marketing strategies for businesses.",
+      "enrollment_status": "Open",
+      "duration": "6 weeks",
+      "schedule": "Tuesdays and Thursdays, 2pm - 4pm",
+      "location": "Online",
+      "prerequisites": "None",
+      "syllabus": [
+        "Week 1: Introduction to Digital Marketing",
+        "Week 2: Social Media Marketing",
+        "Week 3: Search Engine Optimization (SEO)",
+        "Week 4: Pay-Per-Click (PPC) Advertising",
+        "Week 5: Email Marketing",
+        "Week 6: Analytics and Measurement"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRolBjVOXwCtyFsuAkw31p-F4xH-WqEKJWc6g&usqp=CAU"
+    },
+    {
+      "course_name": "Introduction to Artificial Intelligence",
+      "instructor": "Alex Rodriguez",
+      "description": "An overview of artificial intelligence and its applications.",
+      "enrollment_status": "Closed",
+      "duration": "10 weeks",
+      "schedule": "Fridays, 10am - 12pm",
+      "location": "Online",
+      "prerequisites": "Introduction to Programming",
+      "syllabus": [
+        "Week 1: Introduction to AI",
+        "Week 2: Machine Learning Basics",
+        "Week 3: Neural Networks",
+        "Week 4: Natural Language Processing",
+        "Week 5: Computer Vision",
+        "Week 6: AI Ethics",
+        "Week 7: Applications of AI",
+        "Week 8: Project Week",
+        "Week 9: Project Presentations",
+        "Week 10: Course Review"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTOp1uPOOKGF4mjdwqfNRco9B6dN4WJMqTw&usqp=CAU"
+    },
+    {
+      "course_name": "Mobile App Development",
+      "instructor": "Michael Chang",
+      "description": "Learn how to develop mobile applications for iOS and Android platforms.",
+      "enrollment_status": "Open",
+      "duration": "12 weeks",
+      "schedule": "Wednesdays and Fridays, 2pm - 4pm",
+      "location": "Online",
+      "prerequisites": "Introduction to Programming",
+      "syllabus": [
+        "Week 1: Introduction to Mobile App Development",
+        "Week 2: Basics of iOS Development",
+        "Week 3: Basics of Android Development",
+        "Week 4: User Interface Design",
+        "Week 5: Data Storage and Retrieval",
+        "Week 6: Networking in Mobile Apps",
+        "Week 7: Advanced Topics in Mobile Development",
+        "Week 8: Cross-Platform Development",
+        "Week 9: Project Week",
+        "Week 10: Project Presentations",
+        "Week 11: App Deployment",
+        "Week 12: Course Review"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXT5s3frFU_8YCrVGxxksxTk5eap795AbztQ&usqp=CAU"
+    },
+    {
+      "course_name": "Environmental Science",
+      "instructor": "Dr. Emily Roberts",
+      "description": "Explore environmental issues, conservation, and sustainable practices.",
+      "enrollment_status": "Open",
+      "duration": "10 weeks",
+      "schedule": "Mondays and Thursdays, 1pm - 3pm",
+      "location": "Online",
+      "prerequisites": "None",
+      "syllabus": [
+        "Week 1: Introduction to Environmental Science",
+        "Week 2: Ecosystems and Biodiversity",
+        "Week 3: Pollution and Waste Management",
+        "Week 4: Climate Change",
+        "Week 5: Conservation Biology",
+        "Week 6: Sustainable Energy",
+        "Week 7: Environmental Policies and Regulations",
+        "Week 8: Environmental Impact Assessment",
+        "Week 9: Field Trip",
+        "Week 10: Course Review"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSizQQ57JBRAdCPruzxkADkZLgQcvv_GsJOmQ&usqp=CAU"
+    },
+    {
+      "course_name": "Introduction to Psychology",
+      "instructor": "Dr. Amanda Davis",
+      "description": "An overview of basic principles and theories in psychology.",
+      "enrollment_status": "Open",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 10am - 12pm",
+      "location": "Online",
+      "prerequisites": "None",
+      "syllabus": [
+        "Week 1: Introduction to Psychology",
+        "Week 2: Biological Psychology",
+        "Week 3: Cognitive Psychology",
+        "Week 4: Social Psychology",
+        "Week 5: Developmental Psychology",
+        "Week 6: Abnormal Psychology",
+        "Week 7: Therapies and Interventions",
+        "Week 8: Applied Psychology"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNPm9EQ-8WF4R5NV7kn4g_vusAOGtgjvktRA&usqp=CAU"
+    },
+    {
+      "course_name": "Graphic Design Fundamentals",
+      "instructor": "Lisa Williams",
+      "description": "Explore the basics of graphic design, including tools and principles.",
+      "enrollment_status": "Open",
+      "duration": "8 weeks",
+      "schedule": "Mondays and Wednesdays, 3pm - 5pm",
+      "location": "Online",
+      "prerequisites": "None",
+      "syllabus": [
+        "Week 1: Introduction to Graphic Design",
+        "Week 2: Design Principles",
+        "Week 3: Color Theory",
+        "Week 4: Typography",
+        "Week 5: Image Editing Tools",
+        "Week 6: Layout and Composition",
+        "Week 7: Branding and Identity",
+        "Week 8: Project Week"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22auEcULIzG3-mL8dVf4sX8qAxQnBPh12sA&usqp=CAU"
+    },
+    {
+      "course_name": "Cybersecurity Essentials",
+      "instructor": "Dr. Kevin Thompson",
+      "description": "Learn the fundamental concepts of cybersecurity and best practices.",
+      "enrollment_status": "Open",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Thursdays, 6pm - 8pm",
+      "location": "Online",
+      "prerequisites": "Introduction to Programming",
+      "syllabus": [
+        "Week 1: Introduction to Cybersecurity",
+        "Week 2: Network Security",
+        "Week 3: Cryptography",
+        "Week 4: Web Security",
+        "Week 5: Security Policies and Procedures",
+        "Week 6: Malware Analysis",
+        "Week 7: Ethical Hacking",
+        "Week 8: Cybersecurity Tools",
+        "Week 9: Incident Response",
+        "Week 10: Course Review"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXy2orwPuKH2ltE07ITiB8Gc39PFEfA_B1wg&usqp=CAU"
+    },
+    {
+      "course_name": "Creative Writing Workshop",
+      "instructor": "Emma Turner",
+      "description": "Explore various forms of creative writing and enhance your storytelling skills.",
+      "enrollment_status": "Open",
+      "duration": "6 weeks",
+      "schedule": "Fridays, 4pm - 6pm",
+      "location": "Online",
+      "prerequisites": "None",
+      "syllabus": [
+        "Week 1: Introduction to Creative Writing",
+        "Week 2: Fiction Writing",
+        "Week 3: Poetry Writing",
+        "Week 4: Creative Nonfiction",
+        "Week 5: Short Story Writing",
+        "Week 6: Peer Review and Critique"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCu6QVK5OaPpMQYwI5SjLWMDn961zevMtoxg&usqp=CAU"
+    },
+    {
+      "course_name": "Photography Basics",
+      "instructor": "David Miller",
+      "description": "Learn the fundamentals of photography, including composition and editing.",
+      "enrollment_status": "Open",
+      "duration": "8 weeks",
+      "schedule": "Saturdays, 10am - 12pm",
+      "location": "Online",
+      "prerequisites": "None",
+      "syllabus": [
+        "Week 1: Introduction to Photography",
+        "Week 2: Camera Basics",
+        "Week 3: Composition Techniques",
+        "Week 4: Lighting in Photography",
+        "Week 5: Editing with Photo Software",
+        "Week 6: Portrait Photography",
+        "Week 7: Landscape Photography",
+        "Week 8: Project Week"
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkWJ9U4Pwr5dk_93DEXv5FOOsoJbXI3VtVyw&usqp=CAU"
+    }
+  ]
+} 
