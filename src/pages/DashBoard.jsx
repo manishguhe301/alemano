@@ -25,6 +25,9 @@ const DashBoard = () => {
       >
         Go To Home
       </Button>
+      <h1 className='text-2xl font-semibold text-violet-600'>
+        Enrolled Courses
+      </h1>
       {enrolledCourses.length > 0 ? (
         <Grid container spacing={2}>
           {enrolledCourses.map((course) => (
